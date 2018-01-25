@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
                 JSONObject postDataParams = new JSONObject();
 
 
-                // Testing
+               
 //                postDataParams.put("name", "abhay");
 //                postDataParams.put("email", "abhay@gmail.com");
 
